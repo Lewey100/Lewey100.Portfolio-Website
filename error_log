@@ -1,0 +1,2 @@
+[27-Feb-2016 17:07:57 UTC] PHP Fatal error:  Call to undefined function login_check() in /home/lewey100/public_html/member.php on line 62
+[28-Feb-2016 01:14:39 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/lewey100/public_html/CMS.php on line 103
